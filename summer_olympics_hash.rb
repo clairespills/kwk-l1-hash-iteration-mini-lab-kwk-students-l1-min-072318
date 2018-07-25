@@ -1,6 +1,6 @@
 
 def create_olympics_hash
-  summer_olympics= {Sydney => 2000,Athens =>2004,}
+  summer_olympics= {Sydney => 2000,Athens =>2004,Be}
 end
 
 def add_a_key_value_pair
