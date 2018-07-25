@@ -4,7 +4,7 @@ def create_olympics_hash
 end
 print create_olympics_hash
 def add_a_key_value_pair
-  
+  summer_olympics= {Atlanta => 198Sydney => 2000,Athens =>2004,Beijing => 2008,London => 2012}
 end
 
 # def iterate_through_hash
