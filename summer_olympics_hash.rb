@@ -1,5 +1,6 @@
 
 def create_olympics_hash
+  summer_olympics
   
 end
 
